@@ -118,7 +118,7 @@ This repository presents a computer vision and machine learning prototype for in
 
 ## License & Proprietary Rights
 
-**Copyright © 2026 Remziye Azra Sifil . All Rights Reserved.**
+**Copyright © 2026 razrasifil . All Rights Reserved.**
 
 This project, including its source code, trained model weights, algorithmic design, and research methodology, is claimed as proprietary work and is intended to be protected under applicable intellectual property laws.
 
